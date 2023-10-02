@@ -1,0 +1,23 @@
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+button
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: aliceblue;
+}
+
+body
+{
+    background-color: darkolivegreen;
+    
+}
+
+h2
+{
+    font-variant: small-caps;
+}
